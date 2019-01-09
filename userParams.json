@@ -1,0 +1,9 @@
+{
+ "localDB_std::string":"detectorSetupRun4.json",
+ "TimeCalibLoader_ConfigFile_std::string":"TimeCalib_Run4_RefDetTDCCorr.txt",
+ "HitFinder_Velocity_Calibration_File_Path_std::string":"resultsForThresholda.txt",
+ "SignalFinder_EdgeMaxTime_float":"5000",
+ "SignalFinder_LeadTrailMaxTime_float":"25000",
+ "HitFinder_TimeWindowWidth_float":"6000",
+ "EventFinder_EventTime_float":"200000"
+}
